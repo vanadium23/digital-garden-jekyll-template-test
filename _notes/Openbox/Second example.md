@@ -6,7 +6,7 @@
 Markdown Showcase
 =================
 
-Go [[Openbox/Home|home]]. Test.
+Go [[Home|home]]. Test.
 
 Another header
 -------------
